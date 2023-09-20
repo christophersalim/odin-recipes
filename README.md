@@ -1,1 +1,2 @@
 # odin-recipes
+In this project, I am going to showcase my knowledge in HTML by creating a simple recipe website. I have learned HTML, CSS, and JavaScript in 2021, but I gave up midway. This time, I am making sure that I have the grit to continue finishing TOP.
